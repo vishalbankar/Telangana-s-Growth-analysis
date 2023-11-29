@@ -7,11 +7,12 @@ Explore seasonal or cyclical patterns in registration revenues.
 Provide insights into vehicle sales trends by fuel types, vehicle class accounting for district-level preferences and variations.   
 Analyze sectors with high investment and their economic contributions,effectiveness of district-specific investment.   
 
-## Challenge Link -https://codebasics.io/challenge/codebasics-resume-project-challenge/10
+## [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge/10)
 
-## Powerbi dashboard link - https://www.novypro.com/project/telanganas-growth-analysis
-
-## PPT Link - https://github.com/vishalbankar/Telangana-s-Growth-analysis/blob/main/Final%20PPT%20telengana.pdf
+## [Live Powerbi dashboard](https://www.novypro.com/project/telanganas-growth-analysis)
+## [dashboard link](https://app.powerbi.com/view?r=eyJrIjoiYjAyNDAwOGYtZjNkNS00NDBlLWI3NGEtMDkyMmVjZmZkZmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [presentation link](https://www.linkedin.com/feed/update/urn:li:activity:7112066434368745473/)
+## [PPT Link](https://github.com/vishalbankar/Telangana-s-Growth-analysis/blob/main/Final%20PPT%20telengana.pdf)
 
 ##  **Tools Used:**
 - Power BI (for Visualization)
